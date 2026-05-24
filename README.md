@@ -103,7 +103,7 @@ install.packages(c("tidyverse", "patchwork", "knitr", "kableExtra", "here", "RCo
 3. Ejecutar el script:
 
 ```r
-source("scripts/analisis_rendimiento_estudiantil_original_adaptado.R")
+source("scripts/script.R")
 ```
 
 ## Nota
